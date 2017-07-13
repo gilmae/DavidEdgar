@@ -8,4 +8,4 @@ I do things.
 
 I will be one of the first eaten when the stars align.
 
-Most things I do are published under the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/)
+Most things I do are published under the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/)
