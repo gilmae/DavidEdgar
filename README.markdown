@@ -6,6 +6,10 @@ I live in Sydney, Australia.
 
 I do things.
 
+Like [code](https://github.com/gilmae). And [blog](https://blog.avocadia.net). More often in [short form](https://twitter.com/gilmae). I [read books](https://www.goodreads.com/user/show/1506188-david).
+
+I have created some things, like this [randomised Mandelbrot plotter](https://twitter.com/randommandelbot) or this [semiotic square generator](https://twitter.com/semioticia).
+
 I will be one of the first eaten when the stars align.
 
 Most things I do are published under the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/)
