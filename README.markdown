@@ -4,6 +4,8 @@
 I'm a software engineer, technologist, leader, and human being.
 I live in Sydney, Australia.
 
+I currently work as a technical leader and Development Manager for Salmat Digital.
+I am looking for new opportunities and am interested in roles in either technical leadership or product leadership.
 I do things.
 
 Like [code](https://github.com/gilmae). And [blog](https://blog.avocadia.net). More often in [short form](https://twitter.com/gilmae). I [read books](https://www.goodreads.com/user/show/1506188-david).
