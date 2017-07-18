@@ -65,5 +65,3 @@ February 2000 - January 2001
 ## EDUCATION
 Queensland University of Technology 1999
 B Info Tech , Computer Science
-LANGUAGES English
-( Native or bilingual proficiency )
