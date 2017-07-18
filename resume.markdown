@@ -64,6 +64,7 @@ February 2000 - January 2001
 
 ## Community Contributions
 * Mentor for NodeGirls Sydney coding bootcamp
+* Open Source contributor
 
 ## EDUCATION
 Queensland University of Technology 1999
