@@ -62,6 +62,9 @@ February 2001 - March 2007
 Telstra
 February 2000 - January 2001
 
+## Community Contributions
+* Mentor for NodeGirls Sydney coding bootcamp
+
 ## EDUCATION
 Queensland University of Technology 1999
 B Info Tech , Computer Science
