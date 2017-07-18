@@ -18,7 +18,7 @@ Experienced and skilled technical leader and people manager, brings a
 
 ## Experience
 ### Development Manager
-Salmat
+Salmat,
 May 2012 - present
 
 Driving force for the adoption of a mature software development process within Salmat by defining change management processes, adopting tools and practices, and providing thought leadership. This led to predictable sprints, stable products, and safer change. Delivered technical solutions for a business needs for internal and external clients across a range of projects as technical lead through the development of a deep understanding of the business goals and needs of stakeholders.
@@ -36,21 +36,27 @@ Driving force for the adoption of a mature software development process within S
 
 
 ### Technical Lead
-C4 Communication
+C4 Communication,
 Sept 2009 - May 20012
 
-Leading teams ranging from two to seven people Providing technical leadership Mentoring of junior developers Software development Solution scoping and planning Analysis and design
+*Leading teams ranging from two to seven people Providing technical leadership Mentoring of junior developers Software development Solution scoping and planning Analysis and design*
 
 ### Senior Developer
-APT
+APT,
 March 2007 - September 2009
-Solely responsible for the development and maintenance of an internal CRM platform:
-Solution design Development Technical support
+
+** Achievements **
+* Designed and built a bespoke customer relationship management tool, which allowed the business to better target customers for repeat business.
+* Built an extract-transform-load process to streamline the integration of data from newly acquired data sources.
+* Built a reporting tool allowing sales and marketing teams to build data sets from multiple data sources using a simple web-based interface.
+
 
 
 ### Software Developer
-Global Red 02 / 2001 - 03 / 2007 Software Develper
-Responsible for the full SDLC of client projects from requirements gathering at the client site all the way through to user acceptance testing and support. Produced loyalty sites for financial institutes, such as St. George and MasterCard Produced a CMS-driven public information site for Surf Life Saving NSW. Team member on an SMS-driven direct marketing platform for Optus.
+Global Red,
+February 2001 - March 2007
+
+*Responsible for the full SDLC of client projects from requirements gathering at the client site all the way through to user acceptance testing and support. Produced loyalty sites for financial institutes, such as St. George and MasterCard Produced a CMS-driven public information site for Surf Life Saving NSW. Team member on an SMS-driven direct marketing platform for Optus.*
 
 ### Developer
 Telstra
