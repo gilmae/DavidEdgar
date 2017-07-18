@@ -7,12 +7,12 @@ Experienced and skilled technical leader and people manager, brings a
 
 ## Core Skills
 
-Hands on experience in a variety of programming languages, including C#, Ruby, PHP, Go, Javascript.
-Motivation and leadership of technical teams.
-Provides mentorship to junior developers.
-Ability to review  code and provide feedback.
-Ability to work with customers to define and achieve business goals.
-Produces design documents and technical specifications.
+* Hands on experience in a variety of programming languages, including C#, Ruby, PHP, Go, Javascript.
+* Motivation and leadership of technical teams.
+* Provides mentorship to junior developers.
+* Ability to review  code and provide feedback.
+* Ability to work with customers to define and achieve business goals.
+* Produces design documents and technical specifications.
 
 
 
@@ -21,13 +21,19 @@ Produces design documents and technical specifications.
 Salmat
 May 2012 - present
 
-Performed as technical lead for the production of client projects
-Led the adoption of software development
-Recruited an offshore team of developers to complement the onshore developers
-Mentored developers into senior developer positions
+Driving force for the adoption of a mature software development process within Salmat by defining change management processes, adopting tools and practices, and providing thought leadership. This led to predictable sprints, stable products, and safer change. Delivered technical solutions for a business needs for internal and external clients across a range of projects as technical lead through the development of a deep understanding of the business goals and needs of stakeholders.
 
-Leading a team of 4-11 developers and testers. Managing developers and testers in offshore locations. Providing technical leadership. Mentoring of junior developers. Setting software development standards and practices. Pre-sales quoting and requirements gathering. Solution designing and architecture, scoping, and planning. Analysis and design. Software Development. Product Development. Responsible for communication with the rest of the business.
-Responsible for scheduling of work and resources. Responsible for setting priorities and goals of the team.
+** Achievements **
+* Defined change control process for engineering teams.
+* Introduced mature software development tools and practices.
+* Recruited an offshore team of developers to complement the onshore developers.
+* Mentored developers through to promotion into senior developer positions.
+* Built and maintained roadmap for maintenance and growth of legacy product.
+* Delivered compliance with data security standards for credit card handling and account security.
+* Re-architected legacy product for high availability.
+* Established continuous learning movement, with Lunch and Learn program and goal oriented self-learning program.
+
+
 
 ### Technical Lead
 C4 Communication
