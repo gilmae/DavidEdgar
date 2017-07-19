@@ -45,8 +45,6 @@ Sept 2009 - May 2012
 * Mentored junior developers and assisted with their professional progress to senior roles.
 * Led efforts to establish devops practices.
 
-*Leading teams ranging from two to seven people Providing technical leadership Mentoring of junior developers Software development Solution scoping and planning Analysis and design*
-
 ### Senior Developer
 APT,
 March 2007 - September 2009
@@ -63,14 +61,15 @@ Global Red,
 February 2001 - March 2007
 
 ** Achievements **
-
-
-*Responsible for the full SDLC of client projects from requirements gathering at the client site all the way through to user acceptance testing and support. Produced loyalty sites for financial institutes, such as St. George and MasterCard Produced a CMS-driven public information site for Surf Life Saving NSW. Team member on an SMS-driven direct marketing platform for Optus.*
+* Built, tested, and maintained a variety of client projects.
+* Worked with clients to determine business goals and requirements.
+* Worked with peers to develop processes and methods to ensure best results for projects with limited support resources.
 
 ### Developer
 Telstra
 February 2000 - January 2001
 
+ 
 ## Community Contributions
 * Mentor for NodeGirls Sydney coding bootcamp
 * Open Source contributor
