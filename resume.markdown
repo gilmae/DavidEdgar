@@ -6,7 +6,6 @@ david.edgar.developer@gmail.com
 Experienced and skilled technical leader and people manager, brings a
 
 ## Core Skills
-
 * Hands on experience in a variety of programming languages, including C#, Ruby, PHP, Go, Javascript.
 * Motivation and leadership of technical teams.
 * Provides mentorship to junior developers.
@@ -14,7 +13,6 @@ Experienced and skilled technical leader and people manager, brings a
 * Ability to work with customers to define and achieve business goals.
 * Produces design documents and technical specifications.
 * Experience with Agile and Scrum methods.
-
 
 ## Experience
 ### Development Manager
@@ -32,8 +30,6 @@ Driving force for the adoption of a mature software development process within S
 * Delivered compliance with data security standards for credit card handling and account security.
 * Re-architected legacy product for high availability.
 * Established continuous learning movement, with Lunch and Learn program and goal oriented self-learning program.
-
-
 
 ### Technical Lead
 C4 Communication,
@@ -54,8 +50,6 @@ March 2007 - September 2009
 * Built an extract-transform-load process to streamline the integration of data from newly acquired data sources.
 * Built a reporting tool allowing sales and marketing teams to build data sets from multiple data sources using a simple web-based interface.
 
-
-
 ### Software Developer
 Global Red,
 February 2001 - March 2007
@@ -69,12 +63,13 @@ February 2001 - March 2007
 Telstra
 February 2000 - January 2001
 
- 
+** Achievements **
+* Assisted with development of work items.
+
 ## Community Contributions
 * Mentor for NodeGirls Sydney coding bootcamp
 * Open Source contributor
 
-
 ## EDUCATION
 Queensland University of Technology 1999
-B Info Tech , Computer Science
+B Info Tech, Computer Science
