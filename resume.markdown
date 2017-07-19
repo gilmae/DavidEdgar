@@ -13,7 +13,7 @@ Experienced and skilled technical leader and people manager, brings a
 * Ability to review  code and provide feedback.
 * Ability to work with customers to define and achieve business goals.
 * Produces design documents and technical specifications.
-
+* Experience with Agile and Scrum methods.
 
 
 ## Experience
@@ -37,7 +37,13 @@ Driving force for the adoption of a mature software development process within S
 
 ### Technical Lead
 C4 Communication,
-Sept 2009 - May 20012
+Sept 2009 - May 2012
+
+** Achievements **
+* Took over leadership of a development team, facilitating the completion of an Ecommerce product, assisting with rebasing the project schedule, and reestablishing trust with the client.
+* Led R&D team developing future products.
+* Mentored junior developers and assisted with their professional progress to senior roles.
+* Led efforts to establish devops practices.
 
 *Leading teams ranging from two to seven people Providing technical leadership Mentoring of junior developers Software development Solution scoping and planning Analysis and design*
 
@@ -56,6 +62,9 @@ March 2007 - September 2009
 Global Red,
 February 2001 - March 2007
 
+** Achievements **
+
+
 *Responsible for the full SDLC of client projects from requirements gathering at the client site all the way through to user acceptance testing and support. Produced loyalty sites for financial institutes, such as St. George and MasterCard Produced a CMS-driven public information site for Surf Life Saving NSW. Team member on an SMS-driven direct marketing platform for Optus.*
 
 ### Developer
@@ -65,6 +74,7 @@ February 2000 - January 2001
 ## Community Contributions
 * Mentor for NodeGirls Sydney coding bootcamp
 * Open Source contributor
+
 
 ## EDUCATION
 Queensland University of Technology 1999
