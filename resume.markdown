@@ -3,7 +3,7 @@ david.edgar.developer@gmail.com
 0430915492
 
 ## Professional Summary
-Experienced and skilled technical leader and people manager, brings a
+Proven and skilled technical leader and people manager. Brings a range of knowledge and experience drawn from 17 years working in the industry. Has a talent for design and delivery of projects, as well as process and thought leadership.
 
 ## Core Skills
 * Hands on experience in a variety of programming languages, including C#, Ruby, PHP, Go, Javascript.
@@ -28,7 +28,7 @@ Driving force for the adoption of a mature software development process within S
 * Mentored developers through to promotion into senior developer positions.
 * Built and maintained roadmap for maintenance and growth of legacy product.
 * Delivered compliance with data security standards for credit card handling and account security.
-* Re-architected legacy product for high availability.
+* Re-architected legacy product for high availability in a cloud environment.
 * Established continuous learning movement, with Lunch and Learn program and goal oriented self-learning program.
 
 ### Technical Lead
